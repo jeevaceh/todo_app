@@ -1,0 +1,53 @@
+*{
+   padding: 0;
+   margin: 0;
+
+}
+.container {
+    background-color: rgb(125, 242, 250);
+    height: 100vh;
+   
+}
+h1 {
+    padding-top: 30px;
+    color: rgb(255, 98, 98);
+}
+#task {
+    margin-top: 40px;
+    padding: 2% 5%;
+    border:#006eff 2px solid;
+    border-radius: 12px; 
+}
+#submit {
+    margin-top: 40px;
+    padding: 2% 5%;
+    border:#006eff 2px solid;
+    border-radius: 12px; 
+    background-color: rgb(62, 17, 145);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.ongoing {
+    color: rgb(2, 6, 22);
+}
+.lst{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+
+}
+p{
+   margin-left: 20px;
+   font-size: 18px ;
+   font-weight: 700;
+
+}
+
+.ioc{
+    color: rgb(255, 98, 98);
+   width:40px;
+   height:30px;
+
+ 
+}
